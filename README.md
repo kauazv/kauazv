@@ -3,6 +3,6 @@
 - Atualmente trabalhando como assistente administrativo
 - Cursando Ánalise e Desenvolvimento de Sistemas na Cruzeiro do Sul
 - Em busca de um trabalho na área do meu curso
-- Linguagens com maior domínio: Python, HTML
+- Linguagens com maior domínio: Python, HTML, JS, Java.
 - Aprendendo a programar.
 - Fácil aprendizado.
