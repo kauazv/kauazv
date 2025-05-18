@@ -1,6 +1,6 @@
-  # 👨🏽‍💻 Kauã Ferrari
+# 👨🏽‍💻 Kauã Ferrari
 
-  **`Analista de Dados` `DevOps` `SRE`**
+  **Analista de Dados DevOps SRE**
 
   Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São Paulo. Curso Análise e Desenvolvimento de Sistemas na UNICSUL, atualmente no terceiro semestre, com previsão de conclusão em dezembro de 2025. Apaixonado por tecnologia desde criança, atuo como Atendente de Negócios em Processamento de Dados, com foco em análise, tratamento e automação de dados. Também tenho experiência como SRE/DevOps Jr., com habilidades em Kubernetes, CI/CD, monitoramento com Grafana e infraestrutura em nuvem nas plataformas AWS e GCP.
 
@@ -32,97 +32,72 @@
 
   ### 🤖 Linguagens e Tecnologias
 
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-  />
+<p align="left" style="text-decoration: none;">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Vue.js" title="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  </a>
+</p>
 
-  <img 
-      align="left" 
-      alt="Kubernetes" 
-      title="Kubernetes"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-  />
-  <img 
-  align="left" 
-  alt="Grafana" 
-  title="Grafana" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" 
-/>
+<p align="left" style="text-decoration: none;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Apache Kafka" title="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  </a>
+</p>
 
-  <img 
-      align="left" 
-      alt="Terraform" 
-      title="Terraform" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="AWS" 
-      title="Amazon Web Services"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-  />
-  <img 
-      align="left" 
-      alt="Google Cloud" 
-      title="Google Cloud Platform" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Linux" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-  />
+<p align="left" style="text-decoration: none;">
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+    <img alt="Kubernetes" title="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </a>
+</p>
 
-  <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <br/><br/>
+<p align="left" style="text-decoration: none;">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="AWS" title="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Google Cloud" title="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
+    <img alt="Terraform" title="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  </a>
+</p>
+
+<p align="left" style="text-decoration: none;">
+  <a href="https://linux.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </a>
+</p>
+
+<p align="left" style="text-decoration: none;">
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  </a>
+  <a href="https://azure.microsoft.com/services/devops/" target="_blank" rel="noopener noreferrer">
+    <img alt="Azure DevOps" title="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  </a>
+</p>
+
+<p align="left" style="text-decoration: none;">
+  
+</p>
 
   ### 📊 Estatísticas
 
