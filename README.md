@@ -76,22 +76,20 @@
     <img alt="Terraform" title="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   </a>
 </p>
-
-<p align="left" style="text-decoration: none;">
-  <a href="https://linux.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </a>
-</p>
-
 <p align="left" style="text-decoration: none;">
   <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   </a>
   <a href="https://azure.microsoft.com/services/devops/" target="_blank" rel="noopener noreferrer">
     <img alt="Azure DevOps" title="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  </a>
+</p>
+<p align="left" style="text-decoration: none;">
+  <a href="https://linux.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
 </p>
 
