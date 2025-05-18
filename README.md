@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Kauã Ferrari
 
-**`Analista de Dados`**
+**`Analista de Dados` `DevOps` `SRE`**
 
 Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São Paulo. Curso Análise e Desenvolvimento de Sistemas na UNICSUL, atualmente no terceiro semestre, com previsão de conclusão em dezembro de 2025. Apaixonado por tecnologia desde criança, atuo como Atendente de Negócios em Processamento de Dados, com foco em análise, tratamento e automação de dados. Também tenho experiência como SRE/DevOps Jr., com habilidades em Kubernetes, CI/CD, monitoramento com Grafana e infraestrutura em nuvem nas plataformas AWS e GCP.
 
@@ -42,19 +42,78 @@ Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São
 />
 <img 
   align="left" 
-  alt="Linux" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-<img 
-  align="left" 
   alt="JavaScript" 
   title="JavaScript"
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kubernetes" 
+    title="Kubernetes"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
+/>
+<img 
+  align="left" 
+  alt="Docker" 
+  title="Docker" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Terraform" 
+    title="Terraform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="Amazon Web Services"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud Platform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Linux" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
+
 <img 
   align="left" 
   alt="Git" 
@@ -63,15 +122,6 @@ Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-  align="left" 
-  alt="MySQL" 
-  title="MySQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" 
-/>
-
 <br/><br/>
 
 ### 📊 Estatísticas
