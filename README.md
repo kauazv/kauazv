@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Kauã Ferrari
 
-  **Analista de Dados / DevOps SRE**
+  **`Analista de Dados / DevOps SRE`**
 
   Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São Paulo. Curso Análise e Desenvolvimento de Sistemas na UNICSUL, atualmente no terceiro semestre, com previsão de conclusão em dezembro de 2025. Apaixonado por tecnologia desde criança, atuo como Atendente de Negócios em Processamento de Dados, com foco em análise, tratamento e automação de dados. Também tenho experiência como SRE/DevOps Jr., com habilidades em Kubernetes, CI/CD, monitoramento com Grafana e infraestrutura em nuvem nas plataformas AWS e GCP.
 
