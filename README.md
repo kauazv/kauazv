@@ -36,20 +36,23 @@
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   </a>
+  <a href="https://www.java.com/pt-BR" target="_blank" rel="noopener noreferrer">
+    <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img alt="Vue.js" title="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   </a>
 </p>
 
 <p align="left" style="text-decoration: none;">
   <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-    <img alt="PostgreSQL" title="Pg" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)" />
+    <img alt="PostgreSQL" title="Pg" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://spark.apache.org" target="_blank" rel="noopener noreferrer">
+    <img alt="Apache Spark" title="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" />
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
     <img alt="Apache Kafka" title="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
@@ -57,6 +60,9 @@
 </p>
 
 <p align="left" style="text-decoration: none;">
+  <a href="https://aws.amazon.com/pt/what-is/etl" target="_blank" rel="noopener noreferrer">
+    <img alt="ETL" title="ETL" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff" />
+  </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
     <img alt="Kubernetes" title="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   </a>
