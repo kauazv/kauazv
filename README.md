@@ -45,8 +45,8 @@
 </p>
 
 <p align="left" style="text-decoration: none;">
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+    <img alt="PostgreSQL" title="Pg" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
