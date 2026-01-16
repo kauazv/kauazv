@@ -2,7 +2,7 @@
 
   **`Data Engineer / DevOps SRE`**
 
-  Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São Paulo. Curso Análise e Desenvolvimento de Sistemas na UNICSUL, atualmente no terceiro semestre, com previsão de conclusão em dezembro de 2025. Apaixonado por tecnologia desde criança, atuo como Atendente de Negócios em Processamento de Dados, com foco em análise, tratamento e automação de dados. Também tenho experiência como SRE/DevOps Jr., com habilidades em Kubernetes, CI/CD, monitoramento com Grafana e infraestrutura em nuvem nas plataformas AWS e GCP.
+  Me chamo Kauã Policarpo Ferrari, tenho 21 anos e sou natural de Guarulhos, São Paulo. Formado em Análise e Desenvolvimento de Sistemas na UNICSUL, com nota média de 8,23. Apaixonado por tecnologia desde criança, atuo como Analista de processamento de Dados Jr, com foco em webscraping, tratamento, inserção em banco de dados e automação de dados. Também tenho experiência como SRE/DevOps Jr, com habilidades em linux, conteiners CI/CD, monitoramento de dados em tempos reais com Grafana e infraestrutura em nuvem nas plataformas AWS e GCP.
 
   <p align="left" style="text-decoration: none;">
     <a href="https://www.linkedin.com/in/kauã-ferrari/" target="_blank" rel="noopener noreferrer">
