@@ -6,8 +6,6 @@
 🔬 - Strong academic interest in research-oriented data analysis, statistical modeling and scientific computing.\
 🌌 - Strong interest in **Unix-based systems** applied to **astronomical research**, scientific computing and **large-scale data analysis**.\
 
-[![pgp](https://img.shields.io/badge/pgp-06400195259B5B0E-313131?style=flat&labelColor=545454&color=313131)](https://github.com/daviludvig.gpg)
-
 ### Projects 
 - Stack: `Python`, `SQL`, `Pandas`, `NumPy`, `Matplotlib`, `Cloud Services`,  ...
 - Focused on projects involving data analysis, statistical modeling and scientific computing.
