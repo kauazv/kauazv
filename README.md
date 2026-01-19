@@ -13,11 +13,11 @@
   - Exploratory Data Analysis (EDA)
   - **Statistical analysis** and hypothesis testing
   - Data cleaning, transformation and visualization
-🌌- Academic-oriented projects applying computational methods to **physics-related** problems, including:
+- Academic-oriented projects applying computational methods to **physics-related** problems, including:
   - Numerical simulations
   - Time-series analysis
   - **Data analysis** inspired by physical and astronomical systems
-🐧- Experience building reproducible **computational environments** using containers and **Unix-based systems** for data and scientific research.
+- Experience building reproducible **computational environments** using containers and **Unix-based systems** for data and scientific research.
 
 ### Reach me at
 <div align = "left">
