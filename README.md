@@ -2,7 +2,7 @@
 <h3 align="center">Hey! 🌐</h3>
 
 📊 - Junior Data Analyst at **Infocar Technology** <a href = "https://infocar.com.br/" rel = "noreferrer"> </a> .\
-🎓 - Graduate in **Systems Analysis and Development** @ [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br) .\
+🎓 - Graduate in **Systems Analysis and Development** @[Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br) .\
 🔬 - Strong academic interest in research-oriented data analysis, statistical modeling and scientific computing.\
 🌌 - Strong interest in **Unix-based systems** applied to **astronomical research**, scientific computing and **large-scale data analysis**.\
 
