@@ -6,17 +6,14 @@
 </p>
 
 <p align="center">
-    <!-- Core / Data -->
+    <!-- Core -->
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql">
     <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks">
     <img src="https://img.shields.io/badge/Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark">
     <img src="https://img.shields.io/badge/Apache%20Airflow-0D1117?style=for-the-badge&logo=apacheairflow">
-    <!-- Machine Learning -->
     <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn">
-    <!-- DevOps / Cloud -->
     <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions">
-    <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws">
 </p>
 
 <p align="center">
