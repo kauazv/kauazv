@@ -7,7 +7,9 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&letterSpacing=1px&duration=4500&pause=2000&color=FFFFFFF1&center=true&vCenter=true&width=800&lines=Building+scalable+data+systems+and+scientific+computation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&letterSpacing=1px&duration=4500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+scalable+data+systems+and+scientific+computing)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
     <!-- Core -->
