@@ -4,3 +4,23 @@
     <img src="https://i.pinimg.com/originals/01/ed/82/01ed82bf3ba6270e6574123aa870175a.gif" width="200">
     <img src="https://i.pinimg.com/originals/b8/30/b7/b830b79effffcc8c61a77bf14393766f.gif" width="200">
 </p>
+
+<p align="center">
+    <!-- Core / Data -->
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql">
+    <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks">
+    <!-- Machine Learning -->
+    <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn">
+    <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas">
+    <!-- DevOps / Cloud -->
+    <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker">
+    <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes">
+    <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws">
+</p>
+<p align="center">
+  <sub>
+    <b>Data • Machine Learning • DevOps</b><br>
+    Building scalable data systems and scientific models
+  </sub>
+</p>
