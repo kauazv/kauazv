@@ -24,6 +24,6 @@
 
 <p align="center">
   <sub>
-    <b>Data Engineering • Machine Learning • DevOps</b><br>
+    <b>Database Administrator • Data Science • MLOps</b><br>
   </sub>
 </p>
